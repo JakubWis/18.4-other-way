@@ -1,1 +1,1 @@
-https://jakubwis.github.io/18.5/
+https://jakubwis.github.io/18.4-other-way/
